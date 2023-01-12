@@ -1,36 +1,36 @@
 const prizes = [
   {
-    text: 'qwewqeqweqweqwewqeqwe',
+    text: 'очень страшное кино 2',
     color: '#2D4192'
   },
   {
-    text: 'очень страшное кино',
+    text: 'очень страшное кино 3',
     color: '#314CB6'
   },
   {
-    text: 'скидка',
+    text: 'Евротур',
     color: '#2D4192'
   },
   {
-    text: 'Добро',
+    text: 'Американский пирог',
     color: '#314CB6'
   },
-  {
-    text: 'adsasdasdas',
-    color: '#2D4192'
-  },
-  {
-    text: 'Скидок asd asd gg bg',
-    color: '#314CB6'
-  },
-  {
-    text: 'dasdasdasd',
-    color: '#2D4192'
-  },
-  {
-    text: 'приют',
-    color: '#314CB6'
-  }
+  // {
+  //   text: 'adsasdasdas',
+  //   color: '#2D4192'
+  // },
+  // {
+  //   text: 'Скидок asd asd gg bg',
+  //   color: '#314CB6'
+  // },
+  // {
+  //   text: 'dasdasdasd',
+  //   color: '#2D4192'
+  // },
+  // {
+  //   text: 'приют',
+  //   color: '#314CB6'
+  // }
 ]
 
 const wheel = document.querySelector('.deal-wheel')
